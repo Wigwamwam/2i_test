@@ -1,6 +1,6 @@
 ## Background & Objectives
 
-The following aglorithm will sort a list of 10 numbers ranging between 1 to 100 in ascending order and remove any dublicates. The code was
+The following algorithm will sort a list of 10 numbers ranging between 1 to 100 in ascending order and remove any dublicates. The code was
 
 ## Ruby versions
 - Ruby '3.1.2'
